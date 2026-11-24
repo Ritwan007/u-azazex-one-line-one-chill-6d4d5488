@@ -1,0 +1,8 @@
+{
+  "name": "one-line-one-chill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One Line, One Chill — a single horror sentence under 200 characters, written to /output/entry.txt",
+  "license": "MIT"
+}
